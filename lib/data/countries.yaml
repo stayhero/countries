@@ -2807,7 +2807,8 @@ ES:
 
     {{street}}
 
-    {{postalcode}} {{city}} {{region}}
+    {{postalcode}} {{city}} 
+    {{region}}
 
     {{country}}'
   alpha2: ES
